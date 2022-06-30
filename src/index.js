@@ -26,6 +26,7 @@ const list_filename = "list.txt";
           (await filename_list[index]
             .trim()
             .replace("?", "")
+            .replace(":", "")
             .replace("!", "")) + (await path.extname(list_names[index]));
 
         await fs.renameSync(`./${list_names[index]}`, `./${new_name}`);
