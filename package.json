@@ -1,5 +1,5 @@
 {
-  "name": "n.r",
+  "name": "node-re",
   "version": "1.0.0",
   "description": "Quickly rename files using NodeJS",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   },
   "keywords": [
     "rename files with NodeJS",
-    "n.r",
+    "node-re",
     "re"
   ],
   "author": "Ala GARBAA",
@@ -18,10 +18,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ala-garbaa-pro/n.r.git"
+    "url": "git+https://github.com/ala-garbaa-pro/node-re.git"
   },
   "bugs": {
-    "url": "https://github.com/ala-garbaa-pro/n.r/issues"
+    "url": "https://github.com/ala-garbaa-pro/node-re/issues"
   },
   "publishConfig": {
     "access": "public",
@@ -29,6 +29,6 @@
       "master"
     ]
   },
-  "homepage": "https://github.com/ala-garbaa-pro/n.r#readme",
+  "homepage": "https://github.com/ala-garbaa-pro/node-re#readme",
   "devDependencies": {}
 }
