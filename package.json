@@ -1,0 +1,34 @@
+{
+  "name": "n.r",
+  "version": "1.0.0",
+  "description": "Quickly rename files using NodeJS",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "semantic-release": "semantic-release"
+  },
+  "keywords": [
+    "rename files with NodeJS",
+    "n.r",
+    "re"
+  ],
+  "author": "Ala GARBAA",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ala-garbaa-pro/n.r.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ala-garbaa-pro/n.r/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
+  "homepage": "https://github.com/ala-garbaa-pro/n.r#readme",
+  "devDependencies": {}
+}
