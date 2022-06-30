@@ -1,6 +1,6 @@
 {
   "name": "node-re",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly rename files using NodeJS",
   "main": "src/index.js",
   "bin": "src/index.js",
